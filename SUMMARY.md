@@ -2,8 +2,9 @@
 
 * [VaneQ用户手册](README.md)
 
-* [VaneQ](basic/README.md)
+* [VaneQ简介](basic/README.md)
     * [什么是CMP](basic/cmp.md)
+    * [面临的挑战](basic/challenges.md)
     * [为什么使用VaneQ](basic/why_cmp.md)
     * [主要概念](basic/concept.md)
     * [主要功能](basic/function.md)
